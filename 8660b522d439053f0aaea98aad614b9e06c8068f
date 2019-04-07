@@ -1,0 +1,1 @@
+{"jobID":"3fd2b745-fa1f-2bf7-4841-52014e158116","spec":{"type":"policy","cause":{"Message":"","User":"Alfonso Acosta \u003cfons@syntacticsugar.consulting\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"Alfonso Acosta \u003cfons@syntacticsugar.consulting\u003e"},"remove":{}}}},"result":null}
