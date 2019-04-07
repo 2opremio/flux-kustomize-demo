@@ -1,0 +1,1 @@
+{"jobID":"42f922f7-0e1d-8bc7-547c-6cbd1319025c","spec":{"type":"policy","cause":{"Message":"Lock deployment in production","User":"Alfonso Acosta \u003cfons@weave.works\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"Lock deployment in production","locked_user":"Alfonso Acosta \u003cfons@weave.works\u003e"},"remove":{}}}},"result":null}
