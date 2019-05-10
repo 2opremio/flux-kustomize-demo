@@ -1,0 +1,1 @@
+{"jobID":"0b2636de-4dbc-facf-f3fa-40fa939cbb11","spec":{"type":"policy","cause":{"Message":"","User":"Alfonso Acosta \u003cfons@syntacticsugar.consulting\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true","tag.init":"regexp:^3.*","tag.podinfod":"semver:~1.4"},"remove":{}}}},"result":null}
