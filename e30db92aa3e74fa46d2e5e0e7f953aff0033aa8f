@@ -1,0 +1,1 @@
+{"jobID":"f27b4da4-01fb-d5b5-11fa-7c2c83878b84","spec":{"type":"policy","cause":{"Message":"","User":"Alfonso Acosta \u003calfonso.acosta@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
